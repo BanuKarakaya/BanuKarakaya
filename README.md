@@ -1,8 +1,5 @@
 ## Hi there, I'm Banu Karakaya 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Beybi App
 - 🌱 I’m currently learning iOS development
 - 🤔 I’m looking for help with ...
