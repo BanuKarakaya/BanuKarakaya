@@ -5,7 +5,7 @@
 
 ## ✨About Me
 
-I am a computer engineering student. I am interested in iOS development. After my private projects to improve myself, I am currently working on the Beybi App, which I have published publicly for the first time and also prepared for the app store.
+I am a computer engineering student and I am interested in iOS development. After my private projects to improve myself, I am currently working on the Beybi App, which I have published publicly for the first time and also prepared for the app store.
 
 
 
