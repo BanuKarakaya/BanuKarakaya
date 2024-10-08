@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Beybi App
 - 🌱 I’m currently learning iOS development
-- 📫 How to reach me: [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://banukarakaya.com)
- , [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/NrbnKarakaya) , [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/karakayanurbanu) , [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BanuKarakaya)
+- 📫 How to reach me: 
+   [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/NrbnKarakaya) , [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/karakayanurbanu) , [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BanuKarakaya) , [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://banukarakaya.com)
 
 
 
