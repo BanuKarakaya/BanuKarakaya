@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on Beybi App
 - 🌱 I’m currently learning iOS development
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: [Twitter](https://twitter.com/NrbnKarakaya)
+- 📫 How to reach me: [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/NrbnKarakaya)
+
 - ⚡ Fun fact: ...
 - ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
 
