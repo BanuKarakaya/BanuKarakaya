@@ -8,6 +8,12 @@
 
 
 - ⚡ Fun fact: ...
+  ## 🔗 Connect with me
+
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NrbnKarakaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BanuKarakaya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karakayanurbanu)
+
 
 
  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BanuKarakaya&show_icons=true&theme=catppuccin_latte) 
