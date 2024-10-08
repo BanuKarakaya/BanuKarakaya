@@ -1,4 +1,4 @@
-## Hi there 👋, I am Banu Karakaya
+## Hi there, I'm Banu Karakaya 👋
 
 
 Here are some ideas to get you started:
