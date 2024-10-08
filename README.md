@@ -10,6 +10,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  ![Github stats 1](https://github-readme-stats.vercel.app/api?username=BanuKarakaya&show_icons=true&theme=catppuccin_latte) 
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=BanuKarakaya&show_icons=true&theme=radical)
- ![Github stats 3](https://github-readme-stats.vercel.app/api?username=BanuKarakaya&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue)
-
