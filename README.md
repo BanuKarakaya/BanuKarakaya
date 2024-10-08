@@ -20,7 +20,7 @@ I am a computer engineering student and I am interested in iOS development. Afte
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NrbnKarakaya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BanuKarakaya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karakayanurbanu)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://banukarakaya.com)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat&logo=blogge&logoColor=white)](https://banukarakaya.com)
 
 
 
