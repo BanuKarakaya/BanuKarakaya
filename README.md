@@ -11,7 +11,7 @@ I am a computer engineering student and I am interested in iOS development. Afte
 ## My Own Project: Beybi👶
 
 - Beybi is Live on the App Store
-- [Beybi] (https://apps.apple.com/tr/app/beybi-your-babys-journey/id6738651831?l=tr)
+- (https://apps.apple.com/tr/app/beybi-your-babys-journey/id6738651831?l=tr)
 
 
 ## 
