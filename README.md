@@ -1,6 +1,6 @@
 ## Hi Ladies and Gentlemen, I'm Banu Karakaya 👋
 
-- 🔭 I’m currently working on Beybi App
+- 🔭 I’m currently working on Water Boost App
 - 🌱 I’m currently learning iOS development
 
 ## ✨About Me
