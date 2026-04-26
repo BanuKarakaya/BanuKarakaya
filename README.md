@@ -12,13 +12,8 @@ I am a computer engineering student and I am interested in iOS development. Afte
 
 - Beybi is Live on the App Store
 - https://apps.apple.com/tr/app/beybi-your-babys-journey/id6738651831?l=tr
-
-
-## 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=BanuKarakaya&show_icons=true&theme=catppuccin_latte) 
- [![Banu Karakaya's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BanuKarakaya&theme=catppuccin_latte)](https://github.com/BanuKarakaya/github-readme-stats)
   
-  ## 🔗 Connect with me
+## 🔗 Connect with me
 
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NrbnKarakaya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BanuKarakaya)
