@@ -1,4 +1,3 @@
-
 ## Hi Ladies and Gentlemen, I'm Banu Karakaya 👋
 
 - 🔭 I’m currently working on Water Boost App
@@ -13,7 +12,7 @@ I am a computer engineering student and I am interested in iOS development. Afte
 
 - Beybi is Live on the App Store
 - https://apps.apple.com/tr/app/beybi-your-babys-journey/id6738651831?l=tr
-  
+  
 ## 🔗 Connect with me
 
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NrbnKarakaya)
@@ -23,6 +22,6 @@ I am a computer engineering student and I am interested in iOS development. Afte
 
 
 
- 
+ 
 
 
